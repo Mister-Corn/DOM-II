@@ -68,12 +68,6 @@ h1, h2, h3, h4, h5 {
     margin: auto;
 }
 
-/* Fun Classes */
-
-.bordered {
-    border: 5px solid hotpink;
-}
-
 /* Header Styles */
 
 header {
